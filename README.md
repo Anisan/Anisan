@@ -2,4 +2,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisan&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Anisan)
